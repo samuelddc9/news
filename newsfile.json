@@ -1,13 +1,21 @@
 {
   "items": [
     {
-      "date": "2026-10-08",
+      "date": "2026-10-12",
       "headline": "Leave us a review",
       "body": "It is a great way to support the game ",
       "url": "https://store.steampowered.com/app/5169440/Tidy_Up_the_Royal_Armory/",
       "linkLabel": "Store Page",
       "image": "https://raw.githubusercontent.com/samuelddc9/news/main/news_review_banner.png"
 
+    }, 
+    {
+      "date": "2026-10-11",
+      "headline": "Patches",
+      "body": "We are working on several bug fixes and  improving item collisions",
+      "url": "https://store.steampowered.com/app/5169440/Tidy_Up_the_Royal_Armory/",
+      "linkLabel": "Store Page",
+  
     }
   ]
 }
